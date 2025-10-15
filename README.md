@@ -1,6 +1,10 @@
 **Furrish** — a cute–feral community conlang for the furry fandom.  
 Learnable in ~10 minutes. Consent-first. SFW baseline. **#SpeakFurrish**
 
+## 🌐 Official Furrish Dictionary
+Learn and explore Furrish words online here:  
+👉 [Furrish on Lexonomy](https://www.lexonomy.eu/#/vw2wqn3b)
+
 **Get started**
 - 👉 Quickstart PNG: see the latest Release
 - 📚 Core 100 (CSV/JSON/Excel): `/dictionary/`
@@ -14,10 +18,6 @@ Learnable in ~10 minutes. Consent-first. SFW baseline. **#SpeakFurrish**
 - Stop word: **painapu**.
 
 License: **CC BY-SA 4.0**.
-
-## 🌐 Official Furrish Dictionary
-Learn and explore Furrish words online here:  
-👉 [Furrish on Lexonomy](https://www.lexonomy.eu/#/vw2wqn3b)
 
 # Furrish — Community Conlang (v0.1 Starter Kit, EN)
 
