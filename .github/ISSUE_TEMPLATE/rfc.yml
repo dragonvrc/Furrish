@@ -1,12 +1,12 @@
-name: RFC (proposal for grammar or major change)
-description: Propose a significant change to Furrish.
+name: "RFC (proposal for grammar or major change)"
+description: "Propose a significant change to Furrish."
 labels: ["RFC","grammar"]
 body:
   - type: textarea
     id: problem
     attributes:
       label: Problem
-      description: What’s missing or confusing?
+      description: "What’s missing or confusing?"
     validations:
       required: true
 
@@ -14,7 +14,7 @@ body:
     id: proposal
     attributes:
       label: Proposal
-      description: Explain the change (new rule/word). Include pros/cons.
+      description: "Explain the change (new rule/word). Include pros/cons."
     validations:
       required: true
 
@@ -22,19 +22,19 @@ body:
     id: examples
     attributes:
       label: Examples
-      description: Before → After sentences.
+      description: "Before → After sentences."
 
   - type: textarea
     id: impact
     attributes:
       label: Impact
-      description: Teaching complexity? Backwards compatibility?
+      description: "Teaching complexity? Backwards compatibility?"
 
   - type: checkboxes
     id: checklist
     attributes:
       label: Checklist
       options:
-        - label: Inclusive & SFW baseline (stop word: painapu)
-        - label: Fits phonotactics (CV or CVN/R; mw/ny/rw/kw/gw)
-        - label: Avoids synonym bloat
+        - label: "Inclusive & SFW baseline (stop word: painapu)"
+        - label: "Fits phonotactics (CV or CVN/R; mw/ny/rw/kw/gw)"
+        - label: "Avoids synonym bloat"
