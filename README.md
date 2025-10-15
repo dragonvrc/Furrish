@@ -18,7 +18,6 @@ Learn and explore Furrish words online here:
 - Stop word: **painapu**.
 
 License: **CC BY-SA 4.0**.
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](LICENSE)
 
 # Furrish — Community Conlang (v0.1 Starter Kit, EN)
 
