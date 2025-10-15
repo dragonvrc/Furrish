@@ -1,3 +1,20 @@
+**Furrish** — a cute–feral community conlang for the furry fandom.  
+Learnable in ~10 minutes. Consent-first. SFW baseline. **#SpeakFurrish**
+
+**Get started**
+- 👉 Quickstart PNG: see the latest Release
+- 📚 Core 100 (CSV/JSON/Excel): `/dictionary/`
+- 🗣️ 10 phrase frames: `/adoption/PHRASE_FRAMES.md`
+- 🧠 Grammar MVP: `/grammar/README.md`
+
+**Contribute**
+- Small changes: open a **Dictionary entry** issue or PR.
+- Big changes: open an **RFC** (7-day discussion → simple majority).
+- Add examples (Furrish ↔ EN) when touching Core 100.
+- Stop word: **painapu**.
+
+License: **CC BY-SA 4.0**.
+
 # Furrish — Community Conlang (v0.1 Starter Kit, EN)
 
 **Mission:** A cute–feral, accessible language any furry can learn in ~10 minutes for everyday chat, RP, VR, and cons.
