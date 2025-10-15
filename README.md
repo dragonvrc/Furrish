@@ -15,6 +15,10 @@ Learnable in ~10 minutes. Consent-first. SFW baseline. **#SpeakFurrish**
 
 License: **CC BY-SA 4.0**.
 
+## 🌐 Official Furrish Dictionary
+Learn and explore Furrish words online here:  
+👉 [Furrish on Lexonomy](https://www.lexonomy.eu/#/vw2wqn3b)
+
 # Furrish — Community Conlang (v0.1 Starter Kit, EN)
 
 **Mission:** A cute–feral, accessible language any furry can learn in ~10 minutes for everyday chat, RP, VR, and cons.
