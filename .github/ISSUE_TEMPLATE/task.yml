@@ -1,0 +1,14 @@
+name: Task / Docs / Adoption
+description: Non-dictionary chores (readme, graphics, teaching)
+labels: ["task","adoption"]
+body:
+  - type: textarea
+    id: what
+    attributes: { label: What to do }
+    validations: { required: true }
+  - type: textarea
+    id: why
+    attributes: { label: Why }
+  - type: textarea
+    id: dod
+    attributes: { label: Definition of done }
