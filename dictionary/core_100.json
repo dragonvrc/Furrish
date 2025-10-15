@@ -1,0 +1,602 @@
+[
+  {
+    "lemma": "mi",
+    "pos": "pron",
+    "gloss_en": "I / me",
+    "tags": "core"
+  },
+  {
+    "lemma": "yu",
+    "pos": "pron",
+    "gloss_en": "you",
+    "tags": "core"
+  },
+  {
+    "lemma": "en",
+    "pos": "pron",
+    "gloss_en": "they (sing.)",
+    "tags": "core"
+  },
+  {
+    "lemma": "wi",
+    "pos": "pron",
+    "gloss_en": "we / us",
+    "tags": "core"
+  },
+  {
+    "lemma": "de",
+    "pos": "pron",
+    "gloss_en": "they (pl.)",
+    "tags": "core"
+  },
+  {
+    "lemma": "wa",
+    "pos": "part",
+    "gloss_en": "topic marker",
+    "tags": "grammar"
+  },
+  {
+    "lemma": "ya",
+    "pos": "part",
+    "gloss_en": "object marker",
+    "tags": "grammar"
+  },
+  {
+    "lemma": "na",
+    "pos": "part",
+    "gloss_en": "of / possession",
+    "tags": "grammar"
+  },
+  {
+    "lemma": "ko",
+    "pos": "part",
+    "gloss_en": "at / in / to (place)",
+    "tags": "grammar"
+  },
+  {
+    "lemma": "ka",
+    "pos": "part",
+    "gloss_en": "question marker",
+    "tags": "grammar"
+  },
+  {
+    "lemma": "no",
+    "pos": "part",
+    "gloss_en": "negation (not)",
+    "tags": "grammar"
+  },
+  {
+    "lemma": "ta",
+    "pos": "part",
+    "gloss_en": "past",
+    "tags": "grammar"
+  },
+  {
+    "lemma": "nu",
+    "pos": "part",
+    "gloss_en": "progressive / now",
+    "tags": "grammar"
+  },
+  {
+    "lemma": "zo",
+    "pos": "part",
+    "gloss_en": "future",
+    "tags": "grammar"
+  },
+  {
+    "lemma": "ye",
+    "pos": "verb",
+    "gloss_en": "to be (optional)",
+    "tags": "grammar"
+  },
+  {
+    "lemma": "kana",
+    "pos": "verb",
+    "gloss_en": "can / able",
+    "tags": "modal"
+  },
+  {
+    "lemma": "wanu",
+    "pos": "verb",
+    "gloss_en": "want",
+    "tags": "modal"
+  },
+  {
+    "lemma": "musu",
+    "pos": "verb",
+    "gloss_en": "must / have to",
+    "tags": "modal"
+  },
+  {
+    "lemma": "shudu",
+    "pos": "verb",
+    "gloss_en": "should",
+    "tags": "modal"
+  },
+  {
+    "lemma": "rruv",
+    "pos": "verb",
+    "gloss_en": "love",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "cuddu",
+    "pos": "verb",
+    "gloss_en": "cuddle / hug",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "nib",
+    "pos": "verb",
+    "gloss_en": "nibble",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "nom",
+    "pos": "verb",
+    "gloss_en": "eat / nom",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "drinku",
+    "pos": "verb",
+    "gloss_en": "drink",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "si",
+    "pos": "verb",
+    "gloss_en": "see / look",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "hiru",
+    "pos": "verb",
+    "gloss_en": "hear / listen",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "talu",
+    "pos": "verb",
+    "gloss_en": "speak / talk",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "penu",
+    "pos": "verb",
+    "gloss_en": "write",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "ridu",
+    "pos": "verb",
+    "gloss_en": "read",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "lernu",
+    "pos": "verb",
+    "gloss_en": "learn",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "tichu",
+    "pos": "verb",
+    "gloss_en": "teach",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "helu",
+    "pos": "verb",
+    "gloss_en": "help",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "givu",
+    "pos": "verb",
+    "gloss_en": "give",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "teku",
+    "pos": "verb",
+    "gloss_en": "take",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "maku",
+    "pos": "verb",
+    "gloss_en": "make / build",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "go",
+    "pos": "verb",
+    "gloss_en": "go",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "komu",
+    "pos": "verb",
+    "gloss_en": "come",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "weitu",
+    "pos": "verb",
+    "gloss_en": "wait",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "nidu",
+    "pos": "verb",
+    "gloss_en": "need",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "liku",
+    "pos": "verb",
+    "gloss_en": "like",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "sunu",
+    "pos": "verb",
+    "gloss_en": "sleep",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "jampu",
+    "pos": "verb",
+    "gloss_en": "jump",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "haltu",
+    "pos": "verb",
+    "gloss_en": "stop",
+    "tags": "core-verb"
+  },
+  {
+    "lemma": "freni",
+    "pos": "noun",
+    "gloss_en": "friend",
+    "tags": "people"
+  },
+  {
+    "lemma": "pack",
+    "pos": "noun",
+    "gloss_en": "pack / crew",
+    "tags": "people"
+  },
+  {
+    "lemma": "furri",
+    "pos": "noun",
+    "gloss_en": "furry (person)",
+    "tags": "people"
+  },
+  {
+    "lemma": "naga",
+    "pos": "noun",
+    "gloss_en": "cuddle / hug (noun)",
+    "tags": "people"
+  },
+  {
+    "lemma": "fudu",
+    "pos": "noun",
+    "gloss_en": "food",
+    "tags": "daily"
+  },
+  {
+    "lemma": "watu",
+    "pos": "noun",
+    "gloss_en": "water",
+    "tags": "daily"
+  },
+  {
+    "lemma": "den",
+    "pos": "noun",
+    "gloss_en": "home / den",
+    "tags": "daily"
+  },
+  {
+    "lemma": "housu",
+    "pos": "noun",
+    "gloss_en": "house",
+    "tags": "daily"
+  },
+  {
+    "lemma": "rumu",
+    "pos": "noun",
+    "gloss_en": "room",
+    "tags": "daily"
+  },
+  {
+    "lemma": "bedu",
+    "pos": "noun",
+    "gloss_en": "bed",
+    "tags": "daily"
+  },
+  {
+    "lemma": "fonu",
+    "pos": "noun",
+    "gloss_en": "phone",
+    "tags": "daily"
+  },
+  {
+    "lemma": "appu",
+    "pos": "noun",
+    "gloss_en": "app",
+    "tags": "daily"
+  },
+  {
+    "lemma": "namu",
+    "pos": "noun",
+    "gloss_en": "name",
+    "tags": "daily"
+  },
+  {
+    "lemma": "taimu",
+    "pos": "noun",
+    "gloss_en": "time",
+    "tags": "daily"
+  },
+  {
+    "lemma": "con",
+    "pos": "noun",
+    "gloss_en": "convention",
+    "tags": "vr"
+  },
+  {
+    "lemma": "suitu",
+    "pos": "noun",
+    "gloss_en": "fursuit",
+    "tags": "vr"
+  },
+  {
+    "lemma": "baji",
+    "pos": "noun",
+    "gloss_en": "badge",
+    "tags": "vr"
+  },
+  {
+    "lemma": "miro",
+    "pos": "noun",
+    "gloss_en": "mirror",
+    "tags": "vr"
+  },
+  {
+    "lemma": "porto",
+    "pos": "noun",
+    "gloss_en": "portal",
+    "tags": "vr"
+  },
+  {
+    "lemma": "woru",
+    "pos": "noun",
+    "gloss_en": "world",
+    "tags": "vr"
+  },
+  {
+    "lemma": "ava",
+    "pos": "noun",
+    "gloss_en": "avatar",
+    "tags": "vr"
+  },
+  {
+    "lemma": "vr",
+    "pos": "noun",
+    "gloss_en": "VR",
+    "tags": "vr"
+  },
+  {
+    "lemma": "cam",
+    "pos": "noun",
+    "gloss_en": "camera",
+    "tags": "media"
+  },
+  {
+    "lemma": "strimu",
+    "pos": "noun",
+    "gloss_en": "stream",
+    "tags": "media"
+  },
+  {
+    "lemma": "dei",
+    "pos": "noun",
+    "gloss_en": "day",
+    "tags": "time"
+  },
+  {
+    "lemma": "nait",
+    "pos": "noun",
+    "gloss_en": "night",
+    "tags": "time"
+  },
+  {
+    "lemma": "solu",
+    "pos": "noun",
+    "gloss_en": "sun",
+    "tags": "nature"
+  },
+  {
+    "lemma": "munu",
+    "pos": "noun",
+    "gloss_en": "moon",
+    "tags": "nature"
+  },
+  {
+    "lemma": "sukai",
+    "pos": "noun",
+    "gloss_en": "sky",
+    "tags": "nature"
+  },
+  {
+    "lemma": "sita",
+    "pos": "noun",
+    "gloss_en": "star",
+    "tags": "nature"
+  },
+  {
+    "lemma": "reinu",
+    "pos": "noun",
+    "gloss_en": "rain",
+    "tags": "nature"
+  },
+  {
+    "lemma": "sno",
+    "pos": "noun",
+    "gloss_en": "snow",
+    "tags": "nature"
+  },
+  {
+    "lemma": "windu",
+    "pos": "noun",
+    "gloss_en": "wind",
+    "tags": "nature"
+  },
+  {
+    "lemma": "firo",
+    "pos": "noun",
+    "gloss_en": "fire",
+    "tags": "nature"
+  },
+  {
+    "lemma": "laitu",
+    "pos": "noun",
+    "gloss_en": "light",
+    "tags": "nature"
+  },
+  {
+    "lemma": "daku",
+    "pos": "adj",
+    "gloss_en": "dark",
+    "tags": "desc"
+  },
+  {
+    "lemma": "gudu",
+    "pos": "adj",
+    "gloss_en": "good",
+    "tags": "desc"
+  },
+  {
+    "lemma": "badu",
+    "pos": "adj",
+    "gloss_en": "bad",
+    "tags": "desc"
+  },
+  {
+    "lemma": "bigu",
+    "pos": "adj",
+    "gloss_en": "big",
+    "tags": "desc"
+  },
+  {
+    "lemma": "litu",
+    "pos": "adj",
+    "gloss_en": "little / small",
+    "tags": "desc"
+  },
+  {
+    "lemma": "fastu",
+    "pos": "adj",
+    "gloss_en": "fast",
+    "tags": "desc"
+  },
+  {
+    "lemma": "lentu",
+    "pos": "adj",
+    "gloss_en": "slow",
+    "tags": "desc"
+  },
+  {
+    "lemma": "softu",
+    "pos": "adj",
+    "gloss_en": "soft",
+    "tags": "desc"
+  },
+  {
+    "lemma": "hardu",
+    "pos": "adj",
+    "gloss_en": "hard",
+    "tags": "desc"
+  },
+  {
+    "lemma": "warmu",
+    "pos": "adj",
+    "gloss_en": "warm",
+    "tags": "desc"
+  },
+  {
+    "lemma": "koldu",
+    "pos": "adj",
+    "gloss_en": "cold",
+    "tags": "desc"
+  },
+  {
+    "lemma": "spaisu",
+    "pos": "adj",
+    "gloss_en": "spicy",
+    "tags": "desc"
+  },
+  {
+    "lemma": "switu",
+    "pos": "adj",
+    "gloss_en": "sweet",
+    "tags": "desc"
+  },
+  {
+    "lemma": "sefu",
+    "pos": "adj",
+    "gloss_en": "safe",
+    "tags": "desc"
+  },
+  {
+    "lemma": "wairu",
+    "pos": "adj",
+    "gloss_en": "wild",
+    "tags": "desc"
+  },
+  {
+    "lemma": "redi",
+    "pos": "adj",
+    "gloss_en": "ready",
+    "tags": "desc"
+  },
+  {
+    "lemma": "tairu",
+    "pos": "adj",
+    "gloss_en": "tired",
+    "tags": "desc"
+  },
+  {
+    "lemma": "hapi",
+    "pos": "adj",
+    "gloss_en": "happy",
+    "tags": "desc"
+  },
+  {
+    "lemma": "sadu",
+    "pos": "adj",
+    "gloss_en": "sad",
+    "tags": "desc"
+  },
+  {
+    "lemma": "nyu",
+    "pos": "adj",
+    "gloss_en": "new",
+    "tags": "desc"
+  },
+  {
+    "lemma": "odu",
+    "pos": "adj",
+    "gloss_en": "old",
+    "tags": "desc"
+  },
+  {
+    "lemma": "now",
+    "pos": "adv",
+    "gloss_en": "now",
+    "tags": "adv"
+  }
+]

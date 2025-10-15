@@ -1,0 +1,101 @@
+lemma,pos,gloss_en,tags
+mi,pron,I / me,core
+yu,pron,you,core
+en,pron,they (sing.),core
+wi,pron,we / us,core
+de,pron,they (pl.),core
+wa,part,topic marker,grammar
+ya,part,object marker,grammar
+na,part,of / possession,grammar
+ko,part,at / in / to (place),grammar
+ka,part,question marker,grammar
+no,part,negation (not),grammar
+ta,part,past,grammar
+nu,part,progressive / now,grammar
+zo,part,future,grammar
+ye,verb,to be (optional),grammar
+kana,verb,can / able,modal
+wanu,verb,want,modal
+musu,verb,must / have to,modal
+shudu,verb,should,modal
+rruv,verb,love,core-verb
+cuddu,verb,cuddle / hug,core-verb
+nib,verb,nibble,core-verb
+nom,verb,eat / nom,core-verb
+drinku,verb,drink,core-verb
+si,verb,see / look,core-verb
+hiru,verb,hear / listen,core-verb
+talu,verb,speak / talk,core-verb
+penu,verb,write,core-verb
+ridu,verb,read,core-verb
+lernu,verb,learn,core-verb
+tichu,verb,teach,core-verb
+helu,verb,help,core-verb
+givu,verb,give,core-verb
+teku,verb,take,core-verb
+maku,verb,make / build,core-verb
+go,verb,go,core-verb
+komu,verb,come,core-verb
+weitu,verb,wait,core-verb
+nidu,verb,need,core-verb
+liku,verb,like,core-verb
+sunu,verb,sleep,core-verb
+jampu,verb,jump,core-verb
+haltu,verb,stop,core-verb
+freni,noun,friend,people
+pack,noun,pack / crew,people
+furri,noun,furry (person),people
+naga,noun,cuddle / hug (noun),people
+fudu,noun,food,daily
+watu,noun,water,daily
+den,noun,home / den,daily
+housu,noun,house,daily
+rumu,noun,room,daily
+bedu,noun,bed,daily
+fonu,noun,phone,daily
+appu,noun,app,daily
+namu,noun,name,daily
+taimu,noun,time,daily
+con,noun,convention,vr
+suitu,noun,fursuit,vr
+baji,noun,badge,vr
+miro,noun,mirror,vr
+porto,noun,portal,vr
+woru,noun,world,vr
+ava,noun,avatar,vr
+vr,noun,VR,vr
+cam,noun,camera,media
+strimu,noun,stream,media
+dei,noun,day,time
+nait,noun,night,time
+solu,noun,sun,nature
+munu,noun,moon,nature
+sukai,noun,sky,nature
+sita,noun,star,nature
+reinu,noun,rain,nature
+sno,noun,snow,nature
+windu,noun,wind,nature
+firo,noun,fire,nature
+laitu,noun,light,nature
+daku,adj,dark,desc
+gudu,adj,good,desc
+badu,adj,bad,desc
+bigu,adj,big,desc
+litu,adj,little / small,desc
+fastu,adj,fast,desc
+lentu,adj,slow,desc
+softu,adj,soft,desc
+hardu,adj,hard,desc
+warmu,adj,warm,desc
+koldu,adj,cold,desc
+spaisu,adj,spicy,desc
+switu,adj,sweet,desc
+sefu,adj,safe,desc
+wairu,adj,wild,desc
+redi,adj,ready,desc
+tairu,adj,tired,desc
+hapi,adj,happy,desc
+sadu,adj,sad,desc
+nyu,adj,new,desc
+odu,adj,old,desc
+now,adv,now,adv
