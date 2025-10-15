@@ -1,0 +1,34 @@
+name: Dictionary entry/change
+description: Add or edit a word in the Core/Extended dictionary
+labels: ["dictionary"]
+body:
+  - type: input
+    id: lemma
+    attributes: { label: Lemma, placeholder: cuddu }
+    validations: { required: true }
+  - type: dropdown
+    id: pos
+    attributes:
+      label: Part of speech
+      options: [pron, part, verb, noun, adj, adv, intj, num]
+    validations: { required: true }
+  - type: input
+    id: gloss
+    attributes: { label: Gloss (EN), placeholder: cuddle / hug }
+    validations: { required: true }
+  - type: dropdown
+    id: tags
+    attributes:
+      label: Tag
+      options: [grammar, core-verb, people, daily, vr, media, time, nature, desc, adv, safety, num, mood, social, body]
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples
+      description: "Furrish → English"
+      placeholder: "Mi cuddu yu. → I cuddle you."
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Why we need this / conflicts / alternatives
