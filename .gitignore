@@ -1,0 +1,27 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+*.log
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+.env
+virtualenv/
+venv/
+
+# Node.js
+node_modules/
+
+# Excel files (if generated from CSV/JSON)
+*.xlsx
