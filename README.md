@@ -10,6 +10,7 @@
 - [Quickstart (10 Minutes)](#quickstart-10-minutes)
 - [Official Furrish Dictionary](#official-furrish-dictionary)
 - [Contribute](#contribute)
+- [Citation](#citation)
 - [License](#license)
 
 ## About Furrish
@@ -38,6 +39,9 @@ We welcome contributions to improve Furrish! Please read our [Contributing Guide
 - **Big Changes (Grammar, Concepts):** Open an **RFC** (Request for Comments). An RFC goes through a 7-day discussion phase and requires a simple majority vote for adoption. Use the [`RFC_TEMPLATE.md`](/governance/RFC_TEMPLATE.md).
 - Add examples (Furrish ↔ EN) when editing the Core 100.
 - Stop word: **painapu**.
+
+## Citation
+If you use Furrish in your projects, research, or creative works, please cite it using the information in the [`CITATION.cff`](/CITATION.cff) file.
 
 ## License
 This project is licensed under the **CC BY-SA 4.0** license. More details can be found in the [`LICENSE`](/LICENSE) file.
