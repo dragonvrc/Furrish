@@ -1,47 +1,47 @@
-# Furrish — Eine niedliche, wilde Gemeinschaftssprache für das Furry Fandom
+# Furrish — A Cute-Feral Community Conlang for the Furry Fandom
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![GitHub contributors](https://img.shields.io/github/contributors/dragonvrc/Furrish)](https://github.com/dragonvrc/Furrish/graphs/contributors)
 
-**Mission:** Eine niedliche, wilde und zugängliche Sprache, die jeder Furry in etwa 10 Minuten für den täglichen Chat, Rollenspiele, VR und Conventions lernen kann. **#SpeakFurrish**
+**Mission:** A cute-feral, accessible language any furry can learn in ~10 minutes for everyday chat, RP, VR, and cons. **#SpeakFurrish**
 
-## Inhaltsverzeichnis
-- [Über Furrish](#über-furrish)
-- [Schnellstart (10 Minuten)](#schnellstart-10-minuten)
-- [Offizielles Furrish Wörterbuch](#offizielles-furrish-wörterbuch)
-- [Beitragen](#beitragen)
-- [Lizenz](#lizenz)
+## Table of Contents
+- [About Furrish](#about-furrish)
+- [Quickstart (10 Minutes)](#quickstart-10-minutes)
+- [Official Furrish Dictionary](#official-furrish-dictionary)
+- [Contribute](#contribute)
+- [License](#license)
 
-## Über Furrish
-Furrish ist eine gemeinschaftlich entwickelte Conlang (konstruierte Sprache), die speziell für das Furry Fandom entwickelt wurde. Sie ist darauf ausgelegt, leicht erlernbar zu sein, fördert einen zustimmungsbasierten Ansatz und hat eine SFW (Safe For Work) Baseline. 
+## About Furrish
+Furrish is a collaboratively developed conlang (constructed language) specifically designed for the furry fandom. It is intended to be easy to learn, promotes a consent-first approach, and has an SFW (Safe For Work) baseline.
 
-## Schnellstart (10 Minuten)
-1.  Lerne Partikel (wa/ya/na/ko/ka; no) + SVO.  
-2.  Lerne 10 Phrasenrahmen aus [`/adoption/PHRASE_FRAMES.md`](/adoption/PHRASE_FRAMES.md).  
-3.  Lerne 30 Wörter aus dem Core 100 für Tag 1.  
-4.  Verwende Stimmungs-Tags sparsam (prr, grr, chrrp).  
+## Quickstart (10 Minutes)
+1.  Learn particles (wa/ya/na/ko/ka; no) + SVO.
+2.  Learn 10 phrase frames from [`/adoption/PHRASE_FRAMES.md`](/adoption/PHRASE_FRAMES.md).
+3.  Learn 30 words from Core 100 for Day 1.
+4.  Use mood tags sparingly (prr, grr, chrrp).
 
-Weitere Details zur Grammatik findest du unter [`/grammar/README.md`](/grammar/README.md).
+Further grammar details can be found at [`/grammar/README.md`](/grammar/README.md).
 
-## Offizielles Furrish Wörterbuch
-Lerne und erkunde Furrish-Wörter online hier:  
-👉 [Furrish auf Lexonomy](https://www.lexonomy.eu/#/vw2wqn3b)
+## Official Furrish Dictionary
+Learn and explore Furrish words online here:
+👉 [Furrish on Lexonomy](https://www.lexonomy.eu/#/vw2wqn3b)
 
-**Ressourcen:**
-- 📚 Core 100 (CSV/JSON): [`/dictionary/core_100.csv`](/dictionary/core_100.csv) und [`/dictionary/core_100.json`](/dictionary/core_100.json)
-- 📖 Wörterbuch-Schema: [`/dictionary/DICTIONARY_SCHEMA.md`](/dictionary/DICTIONARY_SCHEMA.md)
+**Resources:**
+- 📚 Core 100 (CSV/JSON): [`/dictionary/core_100.csv`](/dictionary/core_100.csv) and [`/dictionary/core_100.json`](/dictionary/core_100.json)
+- 📖 Dictionary Schema: [`/dictionary/DICTIONARY_SCHEMA.md`](/dictionary/DICTIONARY_SCHEMA.md)
 
-## Beitragen
-Wir freuen uns über Beiträge zur Verbesserung von Furrish! Bitte lies unsere [Beitragsrichtlinien](CONTRIBUTING.md), bevor du Änderungen vorschlägst.
+## Contribute
+We welcome contributions to improve Furrish! Please read our [Contributing Guidelines](CONTRIBUTING.md) before proposing changes.
 
-- **Kleine Änderungen (Wörterbucheinträge):** Öffne ein **Dictionary entry** Issue oder einen Pull Request.
-- **Grosse Änderungen (Grammatik, Konzepte):** Öffne einen **RFC** (Request for Comments). Ein RFC durchläuft eine 7-tägige Diskussionsphase und benötigt eine einfache Mehrheit zur Annahme. Verwende das [`RFC_TEMPLATE.md`](/governance/RFC_TEMPLATE.md).
-- Füge Beispiele (Furrish ↔ EN) hinzu, wenn du den Core 100 bearbeitest.
-- Stoppwort: **painapu**.
+- **Small Changes (Dictionary Entries):** Open a **Dictionary entry** issue or a Pull Request.
+- **Big Changes (Grammar, Concepts):** Open an **RFC** (Request for Comments). An RFC goes through a 7-day discussion phase and requires a simple majority vote for adoption. Use the [`RFC_TEMPLATE.md`](/governance/RFC_TEMPLATE.md).
+- Add examples (Furrish ↔ EN) when editing the Core 100.
+- Stop word: **painapu**.
 
-## Lizenz
-Dieses Projekt ist unter der **CC BY-SA 4.0** Lizenz lizenziert. Weitere Details findest du in der [`LICENSE`](/LICENSE) Datei.
+## License
+This project is licensed under the **CC BY-SA 4.0** license. More details can be found in the [`LICENSE`](/LICENSE) file.
 
 
 ---
-*Zuletzt generiert: 2025-10-15*
+*Last generated: 2025-10-15*
